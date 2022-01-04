@@ -1,0 +1,16 @@
+This model was created with Rhino 3D.
+By David A. Swan aka Birdman.
+Please do not claim it as your own work.
+Do not redistribute or sell it.
+This is for personal renders only.
+Any mention of my name is highly appreciated.
+Thanks for downloading.
+
+Dave
+
+boxten <at> swan-cyg <dot> net
+
+I have many requests for an .obj file..
+Rhino makes bloated and terrible obj files.
+Just download Blender (free) and load a 3ds
+file and then save as an obj file.
